@@ -254,7 +254,7 @@ def go_left(items):
             print_pause("Dracule easily grabs you and bites"
                         " your neck")
             print_pause("You were defeated")
-            play_again()
+        play_again()
 
 
 def play_again():
